@@ -8,6 +8,8 @@ $z_1 = 20,\ z_2 = 45,\ z_3 = 24,\ z_4 = 55,\ z_5 = 30,\ z_6 = 43,\ z_7 = 15,\ z_
 
 Calculate the rotational speed in min$^{-1}$ for the final sprocket $z_8$ where the driveshafts are mounted. Round to one decimal.
 
+![alt text](./gears.png)
+
 ```math
 n_1 = 3600 \text{min}^{-1}
 ```
