@@ -13,6 +13,8 @@ Calculate the rotational speed in min$^{-1}$ for the final sprocket $z_8$ where 
   <img src="./gears.png" width="350" title="hover text">
 </p>
 
+Solution:
 ```math
 n_1 = 3600 \text{min}^{-1}
+\frac{z_1}{z_2}
 ```
